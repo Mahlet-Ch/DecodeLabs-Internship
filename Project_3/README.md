@@ -1,4 +1,4 @@
-# 🍽️ AI Food Recommendation System
+# AI Food Recommendation System
 
 ## About the Project
 
